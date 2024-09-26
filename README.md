@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 
 > I'm Hassan Khaled SoftWare Engineer.
 
-- 🔭 I’m currently Student but working as a freelancer... on building a Websites's view.
-- 👨‍💻  I’m currently learning ...
-- 👀 I’m interested in Web-Development
+- 🔭 I’m currently Student but working as a freelancer... on building a Websites's.
+- 👨‍💻  I’m currently learning  ... [(Back-End) : Node-Js,MongoDB]
+- 👀 I’m interested inWeb-Development
 <!-- - 🎯 Pesonal Portfolio Website: [Portfolio](https://larrymahumot.github.io/) -->
 - 📫 How to reach me : <a target="_blank" rel="noopener noreferrer nofollow" href="mailto: hassan.23987546@gmail.com"><img src="https://user-images.githubusercontent.com/112272836/215079596-072098c2-d4b9-44ff-a327-489ca029aa75.png" alt="image" style="max-width: 100%;width:40px;height:40px;"></a>  <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.linkedin.com/in/hassan-khaled-0438a3247/"><img src="https://user-images.githubusercontent.com/112272836/215079502-3d1bf17f-345f-48b0-8276-ff1a1e370742.png" alt="image" style="max-width: 100%;width:40px;height:40px;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.facebook.com/profile.php?id=100014021197613" style="margin:0 10px"><img src="https://th.bing.com/th/id/R.2bad70f2d08429a28dfbebd4c237924b?rik=vgEdhJ%2f%2biiEnQQ&riu=http%3a%2f%2fpngimg.com%2fuploads%2ffacebook_logos%2ffacebook_logos_PNG19748.png&ehk=0ZiZ04ZZ6mSJ5oyPxBh1gy4FSYhegWTWyDpCiI73sbw%3d&risl=&pid=ImgRaw&r=0" alt="image" style="max-width: 100%;width:40px;height:40px;margin:0 10px"></a>
 
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
    <div style="margin-left=25px;">
       <div>
         <h4 style="padding:0;margin:0;">Front-end</h4>
-         <a href="">
+                  <a href="">
             <img width="40px" title = "HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
          </a>
          <a href="">
@@ -62,6 +62,7 @@ Here are some ideas to get you started:
                <img width="40px" title = "MUI"       
 src="https://camo.githubusercontent.com/eacc6b7651686abc3abf40e41122d70e53b6eadc5f0ed5741f375cee08c4fd38/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6d6174657269616c2d75692d312e737667" />
          </a>
+         <h4 style="padding:0;margin:0;">Back-end</h4>
          <a href="">
             <img width="40px" title = "Mongo-DB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
          </a>
