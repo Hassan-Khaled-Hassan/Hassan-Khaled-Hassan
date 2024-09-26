@@ -38,6 +38,10 @@ Here are some ideas to get you started:
          <img width="40px" title = "Css/Css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
          <img width="40px" title = "Java-Script" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
          <img width="40px" title = "BootStrap" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" />
+         <img width="40px" title = "Tailwind-CSS" src="https://trendgems.com/wp-content/uploads/2021/10/tailwind1-980x551.jpg" />
+         <img width="40px" title = "BootStrap" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" />
+         <img width="40px" title = "BootStrap" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" />
+         
          </div>
         <div>
             <img width="40px" title = "MySql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
