@@ -37,12 +37,40 @@ Here are some ideas to get you started:
          <a href="">
             <img width="40px" title = "HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
          </a>
-         <img width="40px" title = "Css/Css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
-         <img width="40px" title = "Java-Script" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-         <img width="40px" title = "BootStrap" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" />
-         <img width="40px" title = "Tailwind-CSS" src="https://trendgems.com/wp-content/uploads/2021/10/tailwind1-1080x675.jpg" />
-         <img width="40px" title = "React-JS" src="https://avatars.githubusercontent.com/u/87020097?s=200&v=4" />
-         <img width="40px" title = "Type-Script" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />
+         <a href="">
+            <img width="40px" title = "Css/Css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
+         </a>
+         <a href="">
+            <img width="40px" title = "Java-Script" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+         </a>
+         <a href="">
+            <img width="40px" title = "Type-Script" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />
+         </a>
+         <a href="">
+            <img width="40px" title = "BootStrap" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" />
+         </a>
+         <a href="">
+            <img width="40px" title = "Tailwind-CSS" src="https://avatars.githubusercontent.com/u/145678505?s=200&v=4" />
+         </a>
+         <a href="">
+            <img width="40px" title = "React-JS" src="https://avatars.githubusercontent.com/u/87020097?s=200&v=4" />
+         </a>
+          <a href="">
+            <img width="40px" title = "Redux" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
+         </a>
+         <a href="">
+               <img width="40px" title = "MUI"       
+src="https://camo.githubusercontent.com/eacc6b7651686abc3abf40e41122d70e53b6eadc5f0ed5741f375cee08c4fd38/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f6d6174657269616c2d75692d312e737667" />
+         </a>
+         <a href="">
+            <img width="40px" title = "Mongo-DB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
+         </a>
+         <a href="">
+            <img width="40px" title = "Express" src="https://avatars.githubusercontent.com/u/5658226?s=200&v=4" />
+         </a>
+         <a href="">
+            <img width="40px" title = "Node-JS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
+         </a>
          </div>
         <div>
             <img width="40px" title = "MySql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
