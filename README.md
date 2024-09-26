@@ -94,6 +94,8 @@ src="https://camo.githubusercontent.com/eacc6b7651686abc3abf40e41122d70e53b6eadc
       <br>
       <a href="#"><img title = "Visual Studio Code" width ="40px" alt="Visual Studio Code" src="https://user-images.githubusercontent.com/29654835/27530003-e78876b8-5a13-11e7-8863-83fbdb900f72.png"></a>
       <a href="#"><img title = "Postman" width = "40px" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png"></a>
+      <a href="#"><img title = "Figma" width = "40px" src="https://camo.githubusercontent.com/e5c1b4b7d59d58f0607fede5dd922211257cd09031f3c2370308ab4e34356299/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667"></a>
+      <a href="#"><img title = "Git" width = "40px" src="https://camo.githubusercontent.com/ff5301ef7472dbdf522b776167a8af8c326299fe8175e53f6b052bbcc04533e3/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667"></a>
       <a href="#"><img title = "InteliJ" width = "40px" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png"></a>
       <a href="#"><img title = "CLion" width = "40px" src="https://static-00.iconduck.com/assets.00/jb-clion-icon-256x256-mysjii3d.png"></a>
       <a href="#"><img title = "PyCharm" width = "40px" src="https://static-00.iconduck.com/assets.00/pycharm-icon-512x512-wd58qkwx.png"></a>
