@@ -39,7 +39,7 @@ Here are some ideas to get you started:
          <img width="40px" title = "Java-Script" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
          <img width="40px" title = "BootStrap" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" />
          <img width="40px" title = "Tailwind-CSS" src="https://trendgems.com/wp-content/uploads/2021/10/tailwind1-1080x675.jpg" />
-         <img width="40px" title = "React-JS" src="https://th.bing.com/th/id/OIP.T9Y8u-4S5csWV8wOjaO2qwHaDt?rs=1&pid=ImgDetMain" />
+         <img width="40px" title = "React-JS" src="https://avatars.githubusercontent.com/u/87020097?s=200&v=4" />
          <img width="40px" title = "Type-Script" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" />
          </div>
         <div>
