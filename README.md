@@ -34,7 +34,9 @@ Here are some ideas to get you started:
    <div style="margin-left=25px;">
       <div>
         <h4 style="padding:0;margin:0;">Front-end</h4>
-         <img width="40px" title = "HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+         <a href="">
+            <img width="40px" title = "HTML" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /> 
+         </a>
          <img width="40px" title = "Css/Css3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" /> 
          <img width="40px" title = "Java-Script" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
          <img width="40px" title = "BootStrap" src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" />
