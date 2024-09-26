@@ -82,8 +82,8 @@ src="https://camo.githubusercontent.com/eacc6b7651686abc3abf40e41122d70e53b6eadc
 ### Langauges :
    <p>
       <br>
-      <a href="#"><img width="40px" title = "C++" alt="C++" 
-                   src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></a>
+      <a href="#"><img width="40px" title = "C++" alt="C++" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></a>
+      <a href="#"><img width="40px" title = "C#" src="https://camo.githubusercontent.com/6b76b4b8faf4e38baa719544de2ec630ccd18184c3283c25532e827b14e7a04c/68747470733a2f2f7062732e7477696d672e636f6d2f6d656469612f455558544c6638585941456a5567692e706e67"></a>
       <a href="#"><img width="40px" title = "Java" src="https://user-images.githubusercontent.com/25181517/117201156-9a724800-adec-11eb-9a9d-3cd0f67da4bc.png"></a>
       <a href="#"><img width="40px" title = "Python"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a>
       <a href="#"></a>
